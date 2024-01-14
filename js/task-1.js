@@ -2,7 +2,6 @@ const getUserNames = (users) => {
     return emails = users.map(user => user.name);
 }
 
-
 console.log(
     getUserNames([
         {
